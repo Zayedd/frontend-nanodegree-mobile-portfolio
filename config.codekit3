@@ -19,6 +19,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/css\/print.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/print-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/css\/style-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -26,6 +36,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/css\/style-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/style-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -42,8 +62,8 @@
 		"oA": 0,
 		"oAP": "\/img\/2048.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -53,8 +73,8 @@
 		"oA": 0,
 		"oAP": "\/img\/cam_be_like.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/mobilewebdev.jpg": {
@@ -63,9 +83,9 @@
 		"oA": 0,
 		"oAP": "\/img\/mobilewebdev.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 50
 		},
 	"\/img\/profilepic.jpg": {
 		"ft": 16384,
@@ -73,9 +93,9 @@
 		"oA": 0,
 		"oAP": "\/img\/profilepic.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 46
 		},
 	"\/index.html": {
 		"cB": 0,
@@ -90,6 +110,16 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/perfmatters-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/perfmatters.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/perfmatters-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -113,6 +143,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/project-webperf.html",
+		"oF": 0
+		},
+	"\/README.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/README.html",
 		"oF": 0
 		},
 	"\/README.md": {
@@ -143,6 +180,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/views\/css\/bootstrap-grid.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/views\/css\/bootstrap-grid-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/views\/css\/style-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -153,16 +200,26 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/views\/css\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/views\/css\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/views\/images\/pizza.png": {
 		"ft": 32768,
 		"iS": 47576,
 		"oA": 0,
 		"oAP": "\/views\/images\/pizza.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
-		"q": 100
+		"q": 49
 		},
 	"\/views\/images\/pizzeria.jpg": {
 		"ft": 16384,
@@ -170,9 +227,9 @@
 		"oA": 0,
 		"oAP": "\/views\/images\/pizzeria.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 21
 		},
 	"\/views\/js\/main-min.js": {
 		"ft": 64,
@@ -180,6 +237,16 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/views\/js\/main-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/views\/js\/main.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/views\/js\/main-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
